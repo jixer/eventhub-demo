@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTruck.Main.SalesApp", "V1\UTruck.Main.SalesApp\UTruck.Main.SalesApp.csproj", "{0E672C57-16DE-4A23-8475-DC1C9191DB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTruck.Main.Dal", "V1\UTruck.Main.Dal\UTruck.Main.Dal.csproj", "{C50779C7-BA9E-4776-8FE8-DCA93DA1E543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTruck.Offsite.Consumer", "V1\UTruck.Offsite.Consumer\UTruck.Offsite.Consumer.csproj", "{37A3578E-9864-49DA-BC64-C695167D0759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTruck.Offsite.Dal", "V1\UTruck.Offsite.Dal\UTruck.Offsite.Dal.csproj", "{419C7E64-6807-41CF-9BDB-EDA09416D411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTruck.Shared", "V1\UTruck.Shared\UTruck.Shared.csproj", "{3C507FB3-92B2-43D9-A580-B5EFEC0FC328}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chrisxr.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = V1\\UTruck.Main.SalesApp\\UTruck.Main.SalesApp.csproj
+		SccProjectName0 = V1/UTruck.Main.SalesApp
+		SccLocalPath0 = V1\\UTruck.Main.SalesApp
+		SccProjectUniqueName1 = V1\\UTruck.Main.Dal\\UTruck.Main.Dal.csproj
+		SccProjectName1 = V1/UTruck.Main.Dal
+		SccLocalPath1 = V1\\UTruck.Main.Dal
+		SccProjectUniqueName2 = V1\\UTruck.Offsite.Consumer\\UTruck.Offsite.Consumer.csproj
+		SccProjectName2 = V1/UTruck.Offsite.Consumer
+		SccLocalPath2 = V1\\UTruck.Offsite.Consumer
+		SccProjectUniqueName3 = V1\\UTruck.Offsite.Dal\\UTruck.Offsite.Dal.csproj
+		SccProjectName3 = V1/UTruck.Offsite.Dal
+		SccLocalPath3 = V1\\UTruck.Offsite.Dal
+		SccProjectUniqueName4 = V1\\UTruck.Shared\\UTruck.Shared.csproj
+		SccProjectName4 = V1/UTruck.Shared
+		SccLocalPath4 = V1\\UTruck.Shared
+		SccLocalPath5 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E672C57-16DE-4A23-8475-DC1C9191DB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E672C57-16DE-4A23-8475-DC1C9191DB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E672C57-16DE-4A23-8475-DC1C9191DB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E672C57-16DE-4A23-8475-DC1C9191DB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50779C7-BA9E-4776-8FE8-DCA93DA1E543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50779C7-BA9E-4776-8FE8-DCA93DA1E543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50779C7-BA9E-4776-8FE8-DCA93DA1E543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50779C7-BA9E-4776-8FE8-DCA93DA1E543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A3578E-9864-49DA-BC64-C695167D0759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A3578E-9864-49DA-BC64-C695167D0759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A3578E-9864-49DA-BC64-C695167D0759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A3578E-9864-49DA-BC64-C695167D0759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419C7E64-6807-41CF-9BDB-EDA09416D411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419C7E64-6807-41CF-9BDB-EDA09416D411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419C7E64-6807-41CF-9BDB-EDA09416D411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419C7E64-6807-41CF-9BDB-EDA09416D411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C507FB3-92B2-43D9-A580-B5EFEC0FC328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C507FB3-92B2-43D9-A580-B5EFEC0FC328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C507FB3-92B2-43D9-A580-B5EFEC0FC328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C507FB3-92B2-43D9-A580-B5EFEC0FC328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
